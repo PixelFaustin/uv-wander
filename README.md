@@ -12,10 +12,13 @@ This repo contains terrible code. This started out as a scratchpad for WebGL1->W
 
 # Screenshots
 Sampled from a picture of Earth
+
 ![ss1](https://i.imgur.com/V6Lipku.png)
 
 Sampled from a HDR picture of a beach
+
 ![ss2](https://i.imgur.com/ssyaH2o.png)
 
 Sampled from a fantasy picture of some sorts
+
 ![ss3](https://i.imgur.com/fzCf3TJ.png)
