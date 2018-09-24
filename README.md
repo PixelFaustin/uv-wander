@@ -1,7 +1,7 @@
 # uv-wander
 
 # Note
-This repo contains terrible code. This started out as a scratchpad for WebGL1->WebGL2 experiments but ended up producing some pretty neat pictures so I decided to publish it here.
+This repo contains terrible code. This started out as a scratchpad for WebGL1->WebGL2 migration experiments but ended up producing some pretty neat pictures so I decided to publish it here.
 
 # Method
 
